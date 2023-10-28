@@ -9,6 +9,8 @@ This project aims to detect online sexism in text data from Reddit and Gab using
 We utilized datasets from Reddit and Gab, pre-processing the data to ensure quality and consistency.
 
 #Algorithms and Results
+
+
 We implemented four different algorithms:
    Support Vector Machines (SVM)
    Naive Bayes
@@ -18,4 +20,6 @@ We implemented four different algorithms:
 Among these, BERT delivered the highest F1 score, achieving an impressive 0.92.
 
 #Acknowledgments
+
+
 Include any credits or acknowledgments here, such as data sources, libraries, or external resources used in the project.
