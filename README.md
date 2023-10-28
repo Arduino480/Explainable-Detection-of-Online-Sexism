@@ -5,6 +5,7 @@
 This project aims to detect online sexism in text data from Reddit and Gab using various machine learning algorithms. We explore the effectiveness of Support Vector Machines (SVM), Naive Bayes, Random Forest, and BERT in identifying sexist content.
 
 #Dataset 
+
 We utilized datasets from Reddit and Gab, pre-processing the data to ensure quality and consistency.
 
 #Algorithms and Results
